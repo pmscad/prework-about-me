@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+#firstp {
+    color: red;
+}
+#secondp {
+    color: blue;
+}
+#thirdp {
+    color: green;
+}
+.bigfont {
+    font-size: 30px;
+}
+.tinyfont {
+    font-size: 8px;
+}
+.textcenter {
+    text-align: center;
+}
+.font-fam {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+ .multiple {
+     font-size: 20px;
+     color: orange;
+
+ }
+ .styledFont {
+     color: green;
+ }
+
+ #styledImage {
+     border-width: 8px;
+     border-style: solid;
+     border-color: orange;
+ }
